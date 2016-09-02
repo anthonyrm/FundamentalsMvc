@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFundamentals.Repository"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFundamentals.Web", "NetFundamentals.Web\NetFundamentals.Web.csproj", "{52FAB1D8-F6BC-4A44-B976-378B604E68EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFundamentals.API", "NetFundamentals.API\NetFundamentals.API.csproj", "{03707063-ED66-4574-983C-82AD64BC855D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{52FAB1D8-F6BC-4A44-B976-378B604E68EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52FAB1D8-F6BC-4A44-B976-378B604E68EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52FAB1D8-F6BC-4A44-B976-378B604E68EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03707063-ED66-4574-983C-82AD64BC855D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03707063-ED66-4574-983C-82AD64BC855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03707063-ED66-4574-983C-82AD64BC855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03707063-ED66-4574-983C-82AD64BC855D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
